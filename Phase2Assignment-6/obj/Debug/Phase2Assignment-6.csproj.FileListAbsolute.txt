@@ -1,0 +1,8 @@
+E:\Phase-2\Day-6-18-08-23\Phase2Assignment-6\Phase2Assignment-6\bin\Debug\Phase2Assignment-6.exe.config
+E:\Phase-2\Day-6-18-08-23\Phase2Assignment-6\Phase2Assignment-6\bin\Debug\Phase2Assignment-6.exe
+E:\Phase-2\Day-6-18-08-23\Phase2Assignment-6\Phase2Assignment-6\bin\Debug\Phase2Assignment-6.pdb
+E:\Phase-2\Day-6-18-08-23\Phase2Assignment-6\Phase2Assignment-6\obj\Debug\Phase2Assignment-6.csproj.AssemblyReference.cache
+E:\Phase-2\Day-6-18-08-23\Phase2Assignment-6\Phase2Assignment-6\obj\Debug\Phase2Assignment-6.csproj.SuggestedBindingRedirects.cache
+E:\Phase-2\Day-6-18-08-23\Phase2Assignment-6\Phase2Assignment-6\obj\Debug\Phase2Assignment-6.csproj.CoreCompileInputs.cache
+E:\Phase-2\Day-6-18-08-23\Phase2Assignment-6\Phase2Assignment-6\obj\Debug\Phase2Assignment-6.exe
+E:\Phase-2\Day-6-18-08-23\Phase2Assignment-6\Phase2Assignment-6\obj\Debug\Phase2Assignment-6.pdb
